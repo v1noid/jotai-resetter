@@ -1,6 +1,15 @@
+<div align="center">
+  <a href="https://jotai-resetter.v1noid.com"><img src="https://jotai-resetter.v1noid.com/logo.png" alt="jotai-resetter" width="100"/></a>
+  
+  [![npm](https://img.shields.io/npm/dt/jotai-resetter.svg)](https://www.npmjs.com/package/jotai-resetter)
+  [![GitHub stars](https://img.shields.io/github/stars/v1noid/jotai-resetter.svg)](https://github.com/v1noid/jotai-resetter/stargazers)
+</div>
+
 ## Jotai Resetter
 
 This package will make it easy for you to reset jotai to it's default values.
+
+Visit our official website: [jotai-resetter.v1noid.com](https://jotai-resetter.v1noid.com)
 
 #### Initialize
 
